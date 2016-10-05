@@ -1,2 +1,2 @@
-# Hello-World someting
+# Hello-World
 Just Hello
